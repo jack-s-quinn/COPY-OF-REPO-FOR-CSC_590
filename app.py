@@ -21,7 +21,7 @@ warnings.filterwarnings('ignore')
 
 # Set page config
 st.set_page_config(
-    page_title="Medical School Personal Statement Analyzer",
+    page_title="JACKS SECOND VERSION",
     page_icon="🏥",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -1369,3 +1369,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
